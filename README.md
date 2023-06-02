@@ -1,8 +1,8 @@
 # Assighn_2_c
 Open Assighment2B.dev project file to execute all the sub files
 -------------Git Commands Used In Git---------------------
-git config --global user.name "Your Name"
-git config --global user.email "your_email@example.com"
+git config --global user.name 
+git config --global user.email 
 git init
 git add .
 git commit -m "Initial commit"
